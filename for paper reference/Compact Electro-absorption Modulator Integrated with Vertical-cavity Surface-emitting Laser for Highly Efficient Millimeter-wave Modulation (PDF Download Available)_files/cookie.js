@@ -1,0 +1,1 @@
+window.parent.googletag.impl.pubads.setCookieInfo({"_cookies_":[{"_value_":"ID=90867d2bcf3d6ca4:T=1450688054:S=ALNI_MY3NuYSN-dgc0b6JBEyTuGK2SyMEQ","_expires_":1513760054,"_path_":"/","_domain_":"researchgate.net"}]});
