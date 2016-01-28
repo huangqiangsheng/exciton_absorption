@@ -84,10 +84,10 @@
   {\bibfield  {journal} {\bibinfo  {journal} {IEEE Photonic Tech L}\ }\textbf
   {\bibinfo {volume} {8}},\ \bibinfo {pages} {1540} (\bibinfo {year}
   {1996})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Chen}\ \emph {et~al.}()\citenamefont {Chen},
+\bibitem [{\citenamefont {Chen}\ \emph {et~al.}(2016)\citenamefont {Chen},
   \citenamefont {Huang}, \citenamefont {Zhang}, \citenamefont {Cheng},
   \citenamefont {Fu}, \citenamefont {Zhang}, \citenamefont {Ma}, \citenamefont
-  {Shi}, \citenamefont {Thourhout}, \citenamefont {Roelkens}, \citenamefont
+  {Shi}, \citenamefont {Van~Thourhout}, \citenamefont {Roelkens}, \citenamefont
   {Liu},\ and\ \citenamefont {He}}]{Transceiver}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
@@ -97,13 +97,13 @@
   {\bibfnamefont {X.}~\bibnamefont {Fu}}, \bibinfo {author} {\bibfnamefont
   {C.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
   {K.}~\bibnamefont {Ma}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
-  {Shi}}, \bibinfo {author} {\bibfnamefont {D.~V.}\ \bibnamefont {Thourhout}},
+  {Shi}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Van~Thourhout}},
   \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Roelkens}}, \bibinfo
   {author} {\bibfnamefont {L.}~\bibnamefont {Liu}}, \ and\ \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {He}},\ }\href@noop {} {\enquote {\bibinfo
-  {title} {Wavelength-multiplexed duplex transceiver based on {IIIV/S}i hybrid
-  integration for off-chip and on-chip optical interconnects},}\ }\bibinfo
-  {note} {{IEEE Photon. J.} (accepted for publication)}\BibitemShut {NoStop}%
+  {\bibfnamefont {S.}~\bibnamefont {He}},\ }\href {\doibase
+  10.1109/JPHOT.2016.2516903} {\bibfield  {journal} {\bibinfo  {journal}
+  {Photonics Journal, IEEE}\ }\textbf {\bibinfo {volume} {8}},\ \bibinfo
+  {pages} {1} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zhou}\ \emph {et~al.}(2014)\citenamefont {Zhou},
   \citenamefont {Pan}, \citenamefont {Zhu}, \citenamefont {Guo}, \citenamefont
   {Zhang},\ and\ \citenamefont {Zhao}}]{Zhou}%
