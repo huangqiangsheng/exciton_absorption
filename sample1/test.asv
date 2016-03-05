@@ -1,0 +1,26 @@
+% tv = [0.5];
+% for iter = 1:length(tv);
+%     ind = find(voltage >= tv(iter));
+%     figure(1000); hold on;
+%     plot(wl,10.^(fnormal_power(ind(end),:)/10));
+% end
+
+figure(8);
+% h = pcolor(voltage,wl,fnormal_power'); 
+for iter = 1:length(voltage)
+    h = plot3(ones(size(wl))*voltage(iter),wl,-(fnormal_power(iter,:)')); hold on;
+%     set(h, 'LineStyle','none');
+    ylabel('\lambda (nm)');
+    xlabel('Bias (V)')
+%     xlim([-3,1.0])
+end
+hold off
+
+figure(7);
+h = pcolor(voltage,wl,fnormal_power'); 
+% h = ribbon(wl,-(fnormal_power'));
+set(h, 'LineStyle','none');
+ylabel('\lambda (nm)');
+xlabel('Bias (V)')
+xlim([-3,1.0])
+% title('normalized transmission without filter')
